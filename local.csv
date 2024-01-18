@@ -1,0 +1,3 @@
+sample,read_1,read_2,group,run_accession
+zr00210_17,fastq/zr00210_17_1.fastq.gz,fastq/zr00210_17_2.fastq.gz,groupA,
+zr00210_1027,fastq/zr00210_1027_1.fastq.gz,fastq/zr00210_1027_2.fastq.gz,groupA,
